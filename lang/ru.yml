@@ -433,3 +433,12 @@ FRIEND_INVITE_TEXT: 'Игрок %s §fотправил Вам запрос в д
 
 DONATECHAT_FORMAT: '§6Чат донатеров §8| §r%s §8» §7%s'
 STAFFCHAT_FORMAT: '§cЧат персонала §8 §r%s §8» §f%s'
+
+BOARD_GROUP: '§fСтатус'
+BOARD_GOLD: '§f'
+BOARD_MONEY: '§61'
+BOARD_BUSTER: '§c1'
+BOARD_NO_BUSTER: '§62'
+BOARD_VK: '§c4'
+BOARD_SITE: '§67'
+BOARD_URLS: '§c4'
